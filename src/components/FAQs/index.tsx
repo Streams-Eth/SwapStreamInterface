@@ -17,7 +17,7 @@ export default function FaqWrapper() {
 						</AccordionButton>
 					</h2>
 					<AccordionPanel pb={4}>
-						It's an aggregator of DEX aggregators, we query the price in 1inch, cowswap, matcha... and then offer you
+						It's a DEX aggregator, we query the price in 1inch, cowswap, matcha... and then offer you
 						the best price among all of them
 					</AccordionPanel>
 				</AccordionItem>
@@ -26,21 +26,21 @@ export default function FaqWrapper() {
 					<h2>
 						<AccordionButton>
 							<Box flex="1" textAlign="left">
-								Does DefiLlama take any fees?
+								Does Swap Stream charge any fees?
 							</Box>
 							<AccordionIcon />
 						</AccordionButton>
 					</h2>
 					<AccordionPanel pb={4}>
-						DefiLlama takes 0 fee on swaps.
+						Swap Stream takes 0 fee on Swaps.
 						<br />
-						<br /> You'll get the exact same price swapping through DefiLlama as what you'd get swapping through the
+						<br /> You'll get the best price swapping through Swap Stream as what you'd get swapping through the
 						chosen aggregator directly.
 						<br />
 						<br />
 						We do add our referral code to swaps tho, so, for aggregators with revenue sharing, they will send us part
 						of the fee they earn. This is not an extra fee, you'd be charged the same fee anyway, but now a small part
-						of it is shared with DefiLlama. We also integrate aggregators with no fee sharing the best price, and in
+						of it is shared with Swap Stream. We also integrate aggregators with no fee sharing the best price, and in
 						those cases we don't make any money.
 					</AccordionPanel>
 				</AccordionItem>
