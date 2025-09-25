@@ -4,7 +4,7 @@ const Phishing = () => {
 	return (
 		<Alert status="warning" justifyContent={'center'} fontWeight="bold">
 			<AlertIcon mr="4px" />
-			Please make sure you are on swap.defillama.com - check the URL carefully.
+			Please make sure you are on swapstream.finance - check the URL carefully.
 		</Alert>
 	);
 };
